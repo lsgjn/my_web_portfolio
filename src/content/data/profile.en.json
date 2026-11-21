@@ -1,0 +1,16 @@
+{
+  "name": "Not filled in yet",
+  "label": "GAME CLIENT · SOLO FULL-STACK",
+  "headline": "Not filled in yet",
+  "intro": "Not filled in yet",
+  "email": "",
+  "github": "",
+  "resume": "",
+  "about": ["Not filled in yet"],
+  "strengths": [
+    { "title": "Not filled in yet", "desc": "" },
+    { "title": "Not filled in yet", "desc": "" },
+    { "title": "Not filled in yet", "desc": "" }
+  ],
+  "services": ["Game client development", "Server / backend development", "Web front-end development"]
+}

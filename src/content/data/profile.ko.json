@@ -1,0 +1,16 @@
+{
+  "name": "아직 채우지 않음",
+  "label": "GAME CLIENT · SOLO FULL-STACK",
+  "headline": "아직 채우지 않음",
+  "intro": "아직 채우지 않음",
+  "email": "",
+  "github": "",
+  "resume": "",
+  "about": ["아직 채우지 않음"],
+  "strengths": [
+    { "title": "아직 채우지 않음", "desc": "" },
+    { "title": "아직 채우지 않음", "desc": "" },
+    { "title": "아직 채우지 않음", "desc": "" }
+  ],
+  "services": ["게임 클라이언트 개발", "서버/백엔드 개발", "웹 프런트엔드 개발"]
+}
