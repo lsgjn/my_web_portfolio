@@ -1,16 +1,19 @@
 {
-  "name": "아직 채우지 않음",
+  "name": "이서진",
   "label": "GAME CLIENT · SOLO FULL-STACK",
-  "headline": "아직 채우지 않음",
-  "intro": "아직 채우지 않음",
+  "headline": "SJ's web portfolio",
+  "intro": "경력은 아직 없음.",
   "email": "",
   "github": "",
   "resume": "",
-  "about": ["아직 채우지 않음"],
-  "strengths": [
-    { "title": "아직 채우지 않음", "desc": "" },
-    { "title": "아직 채우지 않음", "desc": "" },
-    { "title": "아직 채우지 않음", "desc": "" }
+  "about": [
+    "게임 클라이언트 개발자와 1인 풀스택을 생각 중인 비기너."
   ],
-  "services": ["게임 클라이언트 개발", "서버/백엔드 개발", "웹 프런트엔드 개발"]
+  "strengths": [
+    {
+      "title": "열성적익",
+      "desc": "이제 막 열심히하는 개발자"
+    }
+  ],
+  "services": []
 }
